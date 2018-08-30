@@ -1,0 +1,2 @@
+# MNIST
+Implementation of an artificial neural network on the famous MNIST dataset
